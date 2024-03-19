@@ -1,0 +1,16 @@
+::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+    /*primer paso para activar la modificación del scroll*/
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+    /*color del detras de la barra*/
+}
+
+::-webkit-scrollbar-thumb {
+    background: #d6cdcd !important;
+    /*color de la barra*/
+    border-radius: 2px;
+}
